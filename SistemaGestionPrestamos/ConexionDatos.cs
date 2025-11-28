@@ -1,6 +1,6 @@
 ﻿namespace SistemaGestionPrestamos
 {
-    public class Class1
+    public class ConexionDatos
     {
 
     }

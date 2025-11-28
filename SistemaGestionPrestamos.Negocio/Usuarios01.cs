@@ -1,6 +1,6 @@
 ﻿namespace SistemaGestionPrestamos.Negocio
 {
-    public class Class1
+    public class Usuarios01
     {
 
     }
